@@ -1,0 +1,7 @@
+{
+  "main": [
+    "main.css",
+    "main.js"
+  ],
+  "vendor": "vendor.js"
+}
